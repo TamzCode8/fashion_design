@@ -1,0 +1,31 @@
+.fashion{
+        font-family: "Google Sans Flex", sans-serif;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+.About{
+    color: #FF9234;
+}
+
+body{
+    background-color: maroon ;
+}
+p{
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+a{
+    color: #00F7FF;
+}
